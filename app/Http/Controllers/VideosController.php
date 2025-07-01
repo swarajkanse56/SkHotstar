@@ -148,4 +148,9 @@ public function destroy($id)
         $subcategories = SubCategory::where('category_id', $categoryId)->get();
         return response()->json($subcategories);
     }
+
+
+
+
+    
 }

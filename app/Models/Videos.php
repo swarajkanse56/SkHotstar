@@ -25,5 +25,13 @@ class Videos extends Model
 
     // Allow mass assignment for these fields
     
+        public function sliders()
+    {
+        return $this->hasMany(Slider::class);
+    }
 
+public function downloads()
+{
+    return $this->hasMany(Download::class, 'video_id'); // Explicitly use 'video_id'
+}
 }

@@ -222,9 +222,9 @@
                 </div>
               </li>
               <li class="nav-item">
-                <a data-bs-toggle="collapse" href="visit">
+                <a data-bs-toggle="collapse" href="sliders">
                   <i class="fas fa-table"></i>
-                  <p>Visits</p>
+                  <p>sliders</p>
                   <span class="caret"></span>
                 </a>
                 <div class="collapse" id="maps">
@@ -243,9 +243,9 @@
                 </div>
               </li>
               <li class="nav-item">
-                <a data-bs-toggle="collapse" href="citieslist">
+                <a data-bs-toggle="collapse" href="download">
                   <i class="far fa-chart-bar"></i>
-                  <p>Citys</p>
+                  <p>downloads</p>
                   <span class="caret"></span>
                 </a>
                 <div class="collapse" id="charts">

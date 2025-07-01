@@ -80,4 +80,10 @@ class User extends Authenticatable
     return $this->hasMany( Wishlist::class);
 }
 
+
+public function downloads()
+{
+    return $this->hasMany(Download::class);
+}
+
 }
