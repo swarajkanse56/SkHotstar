@@ -61,5 +61,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-Homepage
+SkHotastar_Homepage
 ![alt text](SkHotastar_Homepage.jpg)
+
+SkHotastar_Homepage_category_
+![alt text](SkHotstar_HomePage_Category.jpg)
+
+
+SkHotastar Homepage TV category in subcategory wise subcategory and video show 
+![alt text](SkHotstar_Subcategory.jpg)
+
+SkHotstar Video Play Page 
+![alt text](SkHotastar_videodetailspage.jpg)
